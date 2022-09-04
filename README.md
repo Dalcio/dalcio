@@ -1,11 +1,4 @@
 <div>
-  <style>
-    .dalcio:hover {
-      transition: font-size 200ms ease-in;
-      font-size: large;
-    }
-  </style>
-
 <h1 class="dalcio" align="center">HI there! I'm <a href="https://www.linkedin.com/in/dalcio/"><i>Dálcio
         Garcia</i></a> 😃️</h1>
   <p align="center">I use to be a Frontend Developer, trying to bring to life creative applications</h2>
