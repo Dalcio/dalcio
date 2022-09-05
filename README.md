@@ -2,22 +2,28 @@
   <img src="./assets/cover.png" alt="cover" />
 </div>
 
+<br />
+
 <div>
   <h1 align="center">
     HI there🖐! I'm
     <a href="https://www.linkedin.com/in/dalcio/"><i>Dálcio Garcia</i></a
     >😎
   </h1>
-
+  
+  <br />
+  
   <p align="center">
     I use to be a Frontend Developer, trying to bring to life creative
     applications
   </p>
 </div>
 
+<br />
+
 <div align="center" valign="top">
-  <br />
   <h2>Some Technologies</h2>
+    <br />
   <img
     align="center"
     alt="React"
@@ -97,8 +103,11 @@
   />
 </div>
 
+<br />
+
 <div align="center">
   <h2>GitHub Analytics</h2>
+  <br />
   <a href="https://github.com/dalcio">
     <img
       height="160em"
@@ -114,12 +123,19 @@
 <br />
 
 <div align="center">
-  ![Snake
-  animation](https://github.com/dalcio/dalcio/blob/output/github-contribution-grid-snake.svg)
+  <img
+      align="center"
+      alt="Snake animation"      
+      height="160"
+      src="https://github.com/dalcio/dalcio/blob/output/github-contribution-grid-snake.svg"
+    />
 </div>
+
+<br />
 
 <div align="center">
   <h2>Social Networks</h2>
+  <br />
   <a href="https://www.linkedin.com/in/dalcio-garcia" target="_blank"
     ><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
