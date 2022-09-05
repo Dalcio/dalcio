@@ -9,29 +9,15 @@
     >😎
   </h1>
 
-<p align="center">
+  <p align="center">
     I use to be a Frontend Developer, trying to bring to life creative
     applications
   </p>
 </div>
 
-<div align="center">
-<h2>Github Resume</h2>
-  <a href="https://github.com/dalcio">
-    <img
-      height="160em"
-      src="https://github-readme-stats.vercel.app/api?username=dalcio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"
-    />
-    <img
-      height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalcio&theme=dracula&hide_border=false&&layout=compact"
-    />
-  </a>
-</div>
-
 <div align="center" valign="top">
   <br />
-<h2>Some Technologies</h2>
+  <h2>Some Technologies</h2>
   <img
     align="center"
     alt="React"
@@ -110,16 +96,30 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
   />
 </div>
+
+<div align="center">
+  <h2>GitHub Analytics</h2>
+  <a href="https://github.com/dalcio">
+    <img
+      height="160em"
+      src="https://github-readme-stats.vercel.app/api?username=dalcio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"
+    />
+    <img
+      height="160em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalcio&theme=dracula&hide_border=false&&layout=compact"
+    />
+  </a>
+</div>
+
 <br />
 
 <div align="center">
-<h2>How Often I Use Github</h2>
   ![Snake
   animation](https://github.com/dalcio/dalcio/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
-<h2>Social Networks</h2>
+  <h2>Social Networks</h2>
   <a href="https://www.linkedin.com/in/dalcio-garcia" target="_blank"
     ><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
