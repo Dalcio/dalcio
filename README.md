@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/cover.png" alt="cover" />
+  <img src="./assets/cover.png" alt="cover" width="100%" />
 </div>
 
 <br />
 
 <div>
   <h1 align="center">
-    HI there🖐! I'm
-    <a href="https://www.linkedin.com/in/dalcio/"><i>Dálcio Garcia</i></a
+    HI there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! I'm
+    <a href="https://dalciogarcia.vercel.app/"><i>Dálcio Garcia</i></a
     >😎
   </h1>
   
@@ -139,6 +139,11 @@
   <a href="https://www.linkedin.com/in/dalcio-garcia" target="_blank"
     ><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"
+  /></a>
+  <a href="https://twitter.com/dalcio_" target="_blank"
+    ><img
+      src="https://img.shields.io/twitter/url?style=social&url=dalcio_"
       target="_blank"
   /></a>
   <a href="mailto:dalciomacuetegarcia@gmail.com"
