@@ -1,9 +1,5 @@
 # 🚀 Dálcio Garcia — Full-Stack Engineer & AI Builder
 
-<p align="center">
-  <img src="./assets/cover.png" width="100%" alt="cover"/>
-</p>
-
 <div align="center">
 
 ### Full-Stack Engineer • SaaS Architect • AI Systems Developer  
