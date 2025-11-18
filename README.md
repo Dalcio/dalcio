@@ -61,18 +61,6 @@ I build scalable products, real-time pipelines and intelligent data platforms.
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img
-      align="center"
-      alt="Snake animation"
-      height="160"
-      src="https://github.com/dalcio/dalcio/blob/output/github-contribution-grid-snake.svg"
-  />
-</div>
-
----
-
 ## 📈 GitHub Analytics
 <p align="center">
   <a href="https://github.com/dalcio">
