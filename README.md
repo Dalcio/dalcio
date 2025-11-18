@@ -1,149 +1,107 @@
-<div align="center">
-  <img src="./assets/cover.png" alt="cover" width="100%" />
-</div>
+# 🚀 Dálcio Garcia — Full-Stack Engineer & AI Builder
 
-<br />
-
-<div>
-  <h1 align="center">
-    HI there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! I'm
-    <a href="https://dalciogarcia.vercel.app/"><i>Dálcio Garcia</i></a
-    >😎
-  </h1>
-  
-  <br />
-  
-  <p align="center">
-    I use to be a Frontend Developer, trying to bring to life creative
-    applications
-  </p>
-</div>
-
-<br />
-
-<div align="center" valign="top">
-  <h2>Some Technologies</h2>
-    <br />
-  <img
-    align="center"
-    alt="React"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  />
-  <img
-    align="center"
-    alt="Redux"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-  />
-  <img
-    align="center"
-    alt="Js"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  />
-  <img
-    align="center"
-    alt="Js"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  />
-  <img
-    align="center"
-    alt="HTML"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  />
-  <img
-    align="center"
-    alt="CSS"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  />
-  <img
-    align="center"
-    alt="nodejs"
-    height="30"
-    width="40"
-    src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
-  />
-  <img
-    align="center"
-    alt="Wa-Jest"
-    height="30"
-    width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-  />
-  <img
-    align="center"
-    alt="git"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-  />
-  <img
-    align="center"
-    alt="github"
-    height="35"
-    width="35"
-    src="/assets/GitHub.png"
-  />
-  <img
-    align="center"
-    alt="linux"
-    height="30"
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-  />
-</div>
-
-<br />
+<p align="center">
+  <img src="./assets/cover.png" width="100%" alt="cover"/>
+</p>
 
 <div align="center">
-  <h2>GitHub Analytics</h2>
-  <br />
-  <a href="https://github.com/dalcio">
-    <img
-      height="160em"
-      src="https://github-readme-stats.vercel.app/api?username=dalcio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"
-    />
-    <img
-      height="160em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalcio&theme=dracula&hide_border=false&&layout=compact"
-    />
-  </a>
+
+### Full-Stack Engineer • SaaS Architect • AI Systems Developer  
+I build scalable products, real-time pipelines and intelligent data platforms.
+
 </div>
 
-<br />
+---
 
+## ⚡ What I Do
+- Build SaaS products end-to-end  
+- Architect fast and scalable backends (FastAPI, Node.js, Redis, BullMQ, SSE)  
+- Develop modern frontends (React, Next.js, TypeScript)  
+- AI integrations using OpenAI • Claude • Gemini  
+- Multi-source data ingestion, profiling & transformation  
+- Engineering leadership, architecture, CI/CD, performance tuning  
+
+---
+
+## 🧪 Experience Highlights
+- **Founder & Lead Engineer — Clarifyne AI**  
+  AI-driven data intelligence platform built from scratch  
+  (async pipelines, multi-model AI layer, data profiling engine, dashboards).
+
+- **Project Manager & R&D Engineer — Mirantes Technologies**  
+  Full-stack development, CI/CD, backend architecture, mentoring.
+
+- **Team Lead — Data-Driven SaaS Platforms**  
+  Optimized backend performance by **30%**, designed APIs, led engineering teams.
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+
+<!-- Frontend -->
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"/>
+
+<!-- Backend -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<!-- Infra -->
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg"/>
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/cloudflare-icon.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+
+<!-- Databases -->
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
 <div align="center">
   <img
       align="center"
-      alt="Snake animation"      
+      alt="Snake animation"
       height="160"
       src="https://github.com/dalcio/dalcio/blob/output/github-contribution-grid-snake.svg"
-    />
+  />
 </div>
 
-<br />
+---
+
+## 📈 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/dalcio">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dalcio&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalcio&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+## 🌍 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dalcio-garcia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dalciomacuetegarcia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dalciogarcia.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <h2>Social Networks</h2>
-  <br />
-  <a href="https://www.linkedin.com/in/dalcio-garcia" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="mailto:dalciomacuetegarcia@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      target="_blank"
-  /></a>
+✨ *Building the future with clean code, high-performance systems & bold creativity.*  
 </div>
