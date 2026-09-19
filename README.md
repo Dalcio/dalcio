@@ -29,6 +29,7 @@ Based in Luanda, Angola. Currently Senior Software Developer in the Technology D
 ## Elsewhere
 
 - Portfolio & case studies: [dalciogarcia.vercel.app](https://dalciogarcia.vercel.app)
+- CV: [English (PDF)](cv/Dalcio-Garcia-CV.pdf) · [Português (PDF)](cv/Dalcio-Garcia-CV-PT.pdf)
 - LinkedIn: [linkedin.com/in/dalcio-garcia](https://www.linkedin.com/in/dalcio-garcia)
 - Writing: [dev.to/dalcio](https://dev.to/dalcio)
 - Email: dalciomacuetegarcia@gmail.com
